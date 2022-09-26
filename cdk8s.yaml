@@ -3,3 +3,4 @@ app: go run .
 imports:
   - k8s
   - https://raw.githubusercontent.com/actions-runner-controller/actions-runner-controller/master/charts/actions-runner-controller/crds/actions.summerwind.dev_runnersets.yaml
+  # TODO: Fix this to release
